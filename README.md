@@ -9,11 +9,11 @@
 ```bash
 pip install PySide6
 pip install PySide6-WebEngine
-
+```
 รายละเอียดตัวอย่างโค้ด
 ในโปรเจกต์นี้ประกอบไปด้วยตัวอย่างพื้นฐานที่สำคัญ ดังนี้:
 
-1. Basic Window & OOP
+1. Basic Window & OOP 
 การสร้างหน้าต่างโปรแกรมพื้นฐานด้วยโครงสร้างแบบ Class (Inheritance)
 
 การกำหนดขนาดหน้าต่าง (resize) และชื่อโปรแกรม (setWindowTitle)

@@ -44,22 +44,18 @@ QMessageBox: การสร้างกล่องถาม-ตอบเพื
 
 # LAB 5/5/2026
 
-LAB1
-## Screenshots1
+## LAB1
 ![App Screenshot](images/LAB1.png)
-asdasdasd
+การสร้าง UI เครื่องคิดเลขพื้นฐาน โดยเน้นการฝึกใช้ QGridLayout เพื่อจัดวางปุ่มตัวเลขและเครื่องหมายคำนวณให้เป็นระเบียบตามแนวแถวและคอลัมน์
 
-LAB2
-## Screenshots1
+## LAB2
 ![App Screenshot](images/LAB2.png)
-asdasdasd
+การใช้ Layout แบบซ้อนกัน (Nested Layouts) โดยใช้ QVBoxLayout จัดวางวิดเจ็ตในแนวตั้ง และ QHBoxLayout จัดวางปุ่ม OK/Close ในแนวนอน รวมถึงการใช้ addStretch() เพื่อดันปุ่มไปทางขวา
 
-LAB3
-## Screenshots3
+## LAB3
 ![App Screenshot](images/LAB3.png)
-asdasd
+การสร้าง แบบฟอร์มกรอกข้อมูล ด้วย QFormLayout ซึ่งเหมาะสำหรับการจับคู่ "ป้ายชื่อ (Label)" กับ "ช่องกรอก (Input)" พร้อมตัวอย่างการเชื่อมต่อ Signal/Slot เพื่อเปลี่ยนชื่อ Title บาร์ตามข้อความที่พิมพ์
 
-LAB4
-## Screenshots4
+## LAB4
 ![App Screenshot](images/LAB4.png)
-asdasfsdf
+สร้าง UI เครื่องคิดเลขที่ซับซ้อนขึ้น มีการใช้ QLineEdit เป็นหน้าจอแสดงผล และใช้ addWidget แบบกำหนด row_span และ col_span เพื่อให้บางปุ่ม (เช่น Clear, Backspace) มีความยาวกว้างกว่าปุ่มปกติ

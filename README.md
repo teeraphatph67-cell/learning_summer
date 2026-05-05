@@ -57,5 +57,5 @@ QMessageBox: การสร้างกล่องถาม-ตอบเพื
 การสร้าง แบบฟอร์มกรอกข้อมูล ด้วย QFormLayout ซึ่งเหมาะสำหรับการจับคู่ "ป้ายชื่อ (Label)" กับ "ช่องกรอก (Input)" พร้อมตัวอย่างการเชื่อมต่อ Signal/Slot เพื่อเปลี่ยนชื่อ Title บาร์ตามข้อความที่พิมพ์
 
 ## LAB4
-![App Screenshot](images/LAB4.png)
+![App Screenshot](images/LAB4.png)<br>
 สร้าง UI เครื่องคิดเลขที่ซับซ้อนขึ้น มีการใช้ QLineEdit เป็นหน้าจอแสดงผล และใช้ addWidget แบบกำหนด row_span และ col_span เพื่อให้บางปุ่ม (เช่น Clear, Backspace) มีความยาวกว้างกว่าปุ่มปกติ
